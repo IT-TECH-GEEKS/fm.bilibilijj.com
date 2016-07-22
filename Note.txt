@@ -1,0 +1,6 @@
+Requiers .NetFramework 4.5
+you should use your own WMPLib dll if you want to code yourself
+the lib is in the windows/system32 folder of your operation system
+
+this program is for anime music download from the fm.bilibilijj.com web.
+the music will be download random, and the search is not good enough
