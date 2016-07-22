@@ -1,0 +1,7 @@
+F:\CodeSource\VS2012\animaload\animaload\bin\Debug\animeload.exe.config
+F:\CodeSource\VS2012\animaload\animaload\obj\Debug\Interop.WMPLib.dll
+F:\CodeSource\VS2012\animaload\animaload\obj\Debug\animeload.csproj.ResolveComReference.cache
+F:\CodeSource\VS2012\animaload\animaload\bin\Debug\animeload.exe
+F:\CodeSource\VS2012\animaload\animaload\bin\Debug\animeload.pdb
+F:\CodeSource\VS2012\animaload\animaload\obj\Debug\animeload.exe
+F:\CodeSource\VS2012\animaload\animaload\obj\Debug\animeload.pdb
