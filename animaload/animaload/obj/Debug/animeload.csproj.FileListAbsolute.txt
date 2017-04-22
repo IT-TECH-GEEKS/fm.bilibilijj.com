@@ -5,3 +5,8 @@ F:\CodeSource\VS2012\animaload\animaload\bin\Debug\animeload.exe
 F:\CodeSource\VS2012\animaload\animaload\bin\Debug\animeload.pdb
 F:\CodeSource\VS2012\animaload\animaload\obj\Debug\animeload.exe
 F:\CodeSource\VS2012\animaload\animaload\obj\Debug\animeload.pdb
+C:\Users\Administrator\fm.bilibilijj.com\animaload\animaload\bin\Debug\animeload.exe.config
+C:\Users\Administrator\fm.bilibilijj.com\animaload\animaload\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\fm.bilibilijj.com\animaload\animaload\obj\Debug\animeload.csproj.ResolveComReference.cache
+C:\Users\Administrator\fm.bilibilijj.com\animaload\animaload\obj\Debug\animeload.exe
+C:\Users\Administrator\fm.bilibilijj.com\animaload\animaload\obj\Debug\animeload.pdb

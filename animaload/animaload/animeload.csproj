@@ -34,7 +34,9 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,8 +44,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnimeMusic.cs" />
+    <Compile Include="ConsoleAwaitReader.cs" />
+    <Compile Include="FileDownloader.cs" />
+    <Compile Include="ImageLoaderProject.cs" />
+    <Compile Include="TextFileHelper.cs" />
+    <Compile Include="UserSetting.cs" />
+    <Compile Include="Web\HttpHelper.cs" />
+    <Compile Include="Web\ImageFinder.cs" />
+    <Compile Include="MusicHelper.cs" />
+    <Compile Include="MusicList.cs" />
+    <Compile Include="MusicListItem.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProgressDownload.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SingleMusic.cs" />
+    <Compile Include="WallPaper.cs" />
+    <Compile Include="WebsiteToImage.cs" />
+    <Compile Include="Web\LinkItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
